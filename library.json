@@ -1,16 +1,16 @@
 {
-  "name": "Art-Net",
+  "name": "Art-Net v4 ",
   "keywords": "artnet, art-net, Ethernet, DMX",
   "description": "An Art-Net library for Teensy and Arduino",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/natcl/Artnet.git"
+    "url": "https://github.com/moedude/Artnet.git"
   },
   "authors":
   [
     {
-      "name": "Nathanaël Lécaudé",
+      "name": "Timo Merschen fork from Nathanaël Lécaudé",
       "maintainer": true
     }
   ],
